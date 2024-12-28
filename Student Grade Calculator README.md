@@ -58,34 +58,50 @@ Select option 4 to load and display previously saved student data from the file.
 Select option 5 to exit the program.
 
 File Structure:
+
 StudentGrades.txt: This text file is used to store and retrieve student data.
 
 Example:
 Adding Student Data:
 
 Enter the number of subjects: 3
+
 Enter name of Subject 1: Math
+
 Enter name of Subject 2: Science
+
 Enter name of Subject 3: History
 
 Enter Student Name: John Doe
+
 Enter Roll Number: 101
+
 Enter marks for Math: 85
+
 Enter marks for Science: 90
+
 Enter marks for History: 88
 
 Student Name: John Doe
+
 Roll Number: 101
+
 Total Marks: 263
+
 Percentage: 87.67%
+
 Grade: A
 
 Viewing All Records
 
 Student Name: John Doe
+
 Roll Number: 101
+
 Total Marks: 263
+
 Percentage: 87.67%
+
 Grade: A
 
 Saving and Loading Data
